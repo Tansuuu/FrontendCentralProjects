@@ -1,1 +1,1 @@
-### \* Frontend Central örnek projelerinin reposudur.
+### Frontend Central örnek projelerinin reposudur.
